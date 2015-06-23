@@ -1,0 +1,67 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"font_face": "DroidSansMonoSlashed",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"linters":
+	{
+		"flake8":
+		{
+			"@disable": false,
+			"args":
+			[
+			],
+			"builtins": "",
+			"excludes":
+			[
+			],
+			"ignore": "",
+			"max-complexity": 10,
+			"max-line-length": null,
+			"select": ""
+		}
+	},
+	"paths":
+	{
+		"linux":
+		[
+			"/home/jason/virtualenvs/sublenv/bin"
+		],
+		"osx":
+		[
+			"/Users/cewing/virtualenvs/sublenv/bin"
+		],
+		"windows":
+		[
+		]
+	},
+	"python_paths":
+	{
+		"linux":
+		[
+			"/home/jason/virtualenvs/sublenv/bin"
+		],
+		"osx":
+		[
+			"/Users/cewing/virtualenvs/sublenv/bin"
+		],
+		"windows":
+		[
+		]
+	},
+	"rulers":
+	[
+		72,
+		79,
+		100
+	],
+	"tab_size": 4,
+	"trailing_spaces_modified_lines_only": true,
+	"trailing_spaces_trim_on_save": true,
+	"translate_tabs_to_spaces": true,
+	"use_tab_stops": true,
+	"word_wrap": false,
+	"wrap_width": 79
+}
