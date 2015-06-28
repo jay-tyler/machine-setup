@@ -1,10 +1,17 @@
 {
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"font_face": "DroidSansMonoSlashed",
+	"font_size": 8,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"settings": {
+		"python_interpreter_path": "/home/jason/.virtualenvs/sublenv/bin/python",
+		"python_package_paths": [
+			"/home/jason/.virtualenvs/sublenv/lib/python-2.7/site-packages/"
+		]
+	},
 	"linters":
 	{
 		"flake8":
@@ -27,11 +34,10 @@
 	{
 		"linux":
 		[
-			"/home/jason/virtualenvs/sublenv/bin"
+			"/home/jason/.virtualenvs/sublenv/bin"
 		],
 		"osx":
 		[
-			"/Users/cewing/virtualenvs/sublenv/bin"
 		],
 		"windows":
 		[
@@ -41,11 +47,10 @@
 	{
 		"linux":
 		[
-			"/home/jason/virtualenvs/sublenv/bin"
+			"/home/jason/.virtualenvs/sublenv/bin"
 		],
 		"osx":
 		[
-			"/Users/cewing/virtualenvs/sublenv/bin"
 		],
 		"windows":
 		[
